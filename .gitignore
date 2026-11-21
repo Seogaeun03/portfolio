@@ -1,0 +1,9 @@
+# Public portfolio contains curated documents only.
+.env
+.env.*
+*.pem
+*.key
+.claude/
+.codex/
+.agents/
+node_modules/
